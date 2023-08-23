@@ -1,6 +1,6 @@
 
-- 📖  Atualmente cursando Sistemas para Internet.
-- 🎓  Técnico em Informática para internet.
+- 📖  Atualmente cursando Sistemas para Internet- Segundo Periodo.
+- 🎓  Técnico em Redes de Computadores.
 
  <div>
   <a href="https://github.com/eduhwwh">
