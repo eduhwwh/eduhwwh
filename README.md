@@ -1,5 +1,5 @@
 
-- 📖  Atualmente cursando Sistemas para Internet- Segundo Periodo.
+- 📖  Atualmente cursando Sistemas para Internet- Terceiro Periodo.
 - 🎓  Técnico em Redes de Computadores.
 
  <div>
