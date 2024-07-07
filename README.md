@@ -3,9 +3,10 @@
 - 🎓  Técnico em Redes de Computadores.
 
  <div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=dracula)
-[![Top Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&layout=compact&theme=dark)](https://github.com/eduhwwh/github-readme-stats)
-[![GitHub stars](https://img.shields.io/github/stars/eduhwwh/eduhwwh.svg?style=social)](https://github.com/eduhwwh/eduhwwh/stargazers)
+ <a href="https://github.com/eduhwwh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 <!-- Atividade recente do GitHub -->
 
