@@ -18,7 +18,7 @@
 
 # 👩‍💻 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Olá! Eu sou Maria Eduarda, desenvolvedora com Front-end. Atualmente cursando Sistemas Para Internet e sou formada em Redes de Computadores e apaixonada por tecnologia, resolução de problemas e performance em sistemas web.
+Olá! Eu sou Maria Eduarda, desenvolvedora Front-end. Atualmente cursando Sistemas Para Internet e sou formada em Redes de Computadores e apaixonada por tecnologia, resolução de problemas e performance em sistemas web.
 
 Também sou competidora de Programação Competitiva, onde aprimoro constantemente minhas habilidades em algoritmos e estruturas de dados. Essa prática reflete diretamente na forma como penso, estruturo e desenvolvo soluções eficientes e escaláveis.
 
