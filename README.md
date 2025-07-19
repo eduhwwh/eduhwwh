@@ -18,8 +18,9 @@
 
 # 👩‍💻 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Sou desenvolvedora com foco em **sistemas para internet**, formada em **Redes de Computadores** e apaixonada por resolver problemas com código.  
-Também sou **competidora de Programação Competitiva**, o que me ajuda a desenvolver soluções mais rápidas, eficientes e criativas no dia a dia.
+Olá! Eu sou Maria Eduarda, desenvolvedora com Front-end. Atualmente cursando Sistemas Para Internet e sou formada em Redes de Computadores e apaixonada por tecnologia, resolução de problemas e performance em sistemas web.
+
+Também sou competidora de Programação Competitiva, onde aprimoro constantemente minhas habilidades em algoritmos e estruturas de dados. Essa prática reflete diretamente na forma como penso, estruturo e desenvolvo soluções eficientes e escaláveis.
 
 Estou sempre buscando aprender mais, explorar novas tecnologias e construir projetos que fazem a diferença! 🚀
 
@@ -46,12 +47,13 @@ Estou sempre buscando aprender mais, explorar novas tecnologias e construir proj
 </div>
 
 ---
-
+<!--
 ## 📫 Onde me encontrar
 
-- ✉️ [Seu Email ou LinkedIn]
-- 🌐 [Seu Portfólio ou Site Pessoal, se tiver]
-- 💬 Me chama pra conversar sobre código, desafios ou projetos!
+- ✉️ [Seu Email ou LinkedIn aqui]
+- 🌐 [Portfólio ou Site pessoal, se tiver]
+- 💬 Me chama pra conversar sobre código, desafios ou projetos!-->
+
 
 
 
