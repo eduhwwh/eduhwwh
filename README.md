@@ -2,11 +2,16 @@
 - 📖  Atualmente cursando Sistemas para Internet.
 - 🎓  Técnico em Redes de Computadores.
 
- <div>
+- <div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=gruvbox&&include_all_commits=true&count_private=true&hide=issues">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&theme=gruvbox&layout=compact&langs_count=6">
+</div>
+
+<!--- <div>
  <a href="https://github.com/eduhwwh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+</div>-->
 
 <!-- Atividade recente do GitHub -->
 
