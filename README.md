@@ -1,20 +1,4 @@
 
-👩‍💻 Sobre mim
-Olá! Eu sou Maria Eduarda desenvolvedora Front-end. Atualmente cursando Sistemas Para Internet, sou formada em Redes de Computadores e apaixonada por tecnologia, resolução de problemas e performance em sistemas web.
-
-Também sou competidora de Programação Competitiva, onde aprimoro constantemente minhas habilidades em algoritmos e estruturas de dados. Essa prática reflete diretamente na forma como penso, estruturo e desenvolvo soluções eficientes e escaláveis.
-
-🚀 O que você vai encontrar aqui
-Projetos web modernos
-
-Soluções baseadas em boas práticas de desenvolvimento
-
-Participações e desafios de competições de programação
-
-Alguns experimentos e estudos técnicos
-
-📫 Vamos conversar?
-Se quiser trocar ideias, colaborar ou simplesmente bater um papo sobre tecnologia, sinta-se à vontade para me chamar!
 
 <!-- <div>
  <a href="https://github.com/eduhwwh">
@@ -32,14 +16,12 @@ Se quiser trocar ideias, colaborar ou simplesmente bater um papo sobre tecnologi
 
 </div>-->
 
-## 📊 GitHub Stats
+# 👩‍💻 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-<div align="center">
-  <a href="https://github.com/eduhwwh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
-</div>
+Sou desenvolvedora com foco em **sistemas para internet**, formada em **Redes de Computadores** e apaixonada por resolver problemas com código.  
+Também sou **competidora de Programação Competitiva**, o que me ajuda a desenvolver soluções mais rápidas, eficientes e criativas no dia a dia.
+
+Estou sempre buscando aprender mais, explorar novas tecnologias e construir projetos que fazem a diferença! 🚀
 
 ---
 
@@ -53,6 +35,24 @@ Se quiser trocar ideias, colaborar ou simplesmente bater um papo sobre tecnologi
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/eduhwwh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&layout=compact&langs_count=10&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+- ✉️ [Seu Email ou LinkedIn]
+- 🌐 [Seu Portfólio ou Site Pessoal, se tiver]
+- 💬 Me chama pra conversar sobre código, desafios ou projetos!
+
 
 
 
